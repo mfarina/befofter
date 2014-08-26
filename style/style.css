@@ -1,0 +1,19 @@
+body{	font-family: Arial, Sans-Serif;
+		background-color: #FBEDF3;
+}
+
+.player{width: 1080px;
+		height: 608px;
+		background-color: #FBEDF3;
+		position: fixed;
+		left: 50%;
+		top: 50%;
+		margin-left: -540px;
+		margin-top: -308px;
+}
+
+.player img{width: 100%;
+			height: 100%;
+
+
+}
